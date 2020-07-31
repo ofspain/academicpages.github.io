@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Dynamic Modeling and Simulation of Fluid Catalytic Cracking Unit Riser"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper deep dived into the dynamic effect of coke deposition on FCCU catalyst on the dynamics of the cracking process'
+date: 2019-10-01
+venue: 'Ife Journal of Technology'
+citation: 'Osunleke, A.S., Ayeni, O.B., Bamimore, A., and Alli, K.O. (2016). &quot;Dynamic Modeling and Simulation of Fluid Catalytic Cracking Unit Riser.&quot; <i>Ife Journal of Technology</i>. vol 145. (2019).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper centers around a mathematical model of the FCCU riser, discretization of the resulting partial difrrential equations using finite difference method  and an onward simulation of the model using java programming language.
