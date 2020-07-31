@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Laboratory Practise"
 collection: teaching
-type: "Workshop"
+type: "Laboratory"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Obafemi Awolowo University, Department of Chemical Engineering"
 date: 2015-01-01
-location: "City, Country"
+location: "Ile-Ife, Nigeria"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Guided undergraduate on simulating and control of models
