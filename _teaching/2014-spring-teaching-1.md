@@ -8,12 +8,3 @@ location: "Ile-Ife, Nigeria"
 ---
 
 Took tutorial on mathematical modeling of simple processes such as tank flow system and CSTR using first principle material, component and energy balances.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
