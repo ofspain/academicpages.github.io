@@ -1,7 +1,7 @@
 ---
 title: "System Modelling (CHE 411)"
 collection: teaching
-type: "teaching"
+permalink: /teaching/2014-spring-teaching-1
 venue: "Obafemi Awolowo University, Department of Chemical Engineering"
 date: 2015 harmatan semester
 location: "Ile-Ife, Nigeria"
