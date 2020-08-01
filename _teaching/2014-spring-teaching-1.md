@@ -7,5 +7,5 @@ date: 2020-08-01
 location: "Ile-Ife, Nigeria"
 ---
 
-Took tutorial on mathematical modeling of simple processes such as tank flow system and CSTR using first principle material, component and energy balances.
+Taught undergraduate tutorial on mathematical modeling of simple processes such as tank flow system and CSTR using first principle material, component and energy balances.
 
