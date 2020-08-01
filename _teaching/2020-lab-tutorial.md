@@ -1,7 +1,7 @@
 ---
 title: "Control and Numerical Simulation of Simple Process"
 collection: teaching
-permalink: /teaching/2020-08-02
+permalink: /teaching/2020/08/02/lab/tutorial
 venue: "Obafemi Awolowo University, Process Control and Simulation  Lab"
 date: 2020-08-02
 location: "OAU, Ile-Ife, Nigeria"
