@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ayeni"
-  avatar           : "profile.png"
+  avatar           : "femi.png"
   bio              : "Machine Learning enthusiast"
   location         : "Lagos, Nigeria"
   employer         :
@@ -216,8 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
