@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Chemical Engineering, Ladoke Akintola University of Technology, Ogbomosho 2009
+* M.Sc. in Chemical Engineering, Obafemi Awolowo University, Ile-Ife 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 till date: Software Developer
+  * Propertypro Ltd, Nigeria
+  * Duties included: Ugrading api and maintaining web application
+  
+* 2015: Teaching/Research Assistant
+  * Obafemi Awolowo University
+  * Duties included: Supervising undergraduates lab work, invigilating examination, Teaching tutorials
+  * Supervisor: Dr A.S Osunleke
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Modelling
+  * Mathematical
+  * Neural Network
+* Programming
+  * Java
+  * Python
+  * HTML/CSS
+  * Docker
+* Simulation and control
 
 Publications
 ======
@@ -54,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
