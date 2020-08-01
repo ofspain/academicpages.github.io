@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me- Femi"
+title: "Ayeni Oluwafemi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
