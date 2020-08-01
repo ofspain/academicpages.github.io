@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Modeling and Simulation of Fluid Catalytic Cracking Unit Riser"
-collection: publications
+collection: publication
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper deep dived into the dynamic effect of coke deposition on FCCU catalyst on the dynamics of the cracking process using mathematical model to realize the dynamics of the system and numerically simulating the model using java programming language'
 date: 2019-10-01
