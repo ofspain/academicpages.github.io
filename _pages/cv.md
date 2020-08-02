@@ -35,6 +35,7 @@ Skills
   * Python
   * HTML/CSS
   * Docker
+  * Jekyll and Markdown
 * Simulation and control
 
 Publications
