@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper deep dived into the dynamic effect of coke deposition on FCCU catalyst on the dynamics of the cracking process using mathematical model to realize the dynamics of the system and numerically simulating the model using java programming language'
 date: 2019-10-01
 venue: 'Ife Journal of Technology'
-citation: Osunleke, A., Ayeni, O., Bamimore, A., & Alli, K. (2019). &quot;Dynamic Modeling and Simulation of Fluid Catalytic Cracking Unit Riser.&quot; <i>Ife Journal of Technology</i>. vol(26)1, 23-28. Retrieved from [here](http://ijt.oauife.edu.ng/index.php/ijt/article/view/143)
+citation: Osunleke, A., Ayeni, O., Bamimore, A., & Alli, K. (2019). &quot;Dynamic Modeling and Simulation of Fluid Catalytic Cracking Unit Riser.&quot; <i>Ife Journal of Technology</i>. vol(26)1, 23-28.http://ijt.oauife.edu.ng/index.php/ijt/article/view/143
 ---
 
 This study developed and simulated a dynamic mathematical model for a Fluid Catalytic Cracking Unit (FCCU) riser reactor with consideration of coke deposition on the catalyst in the overall mass balance of the system. It also proposed a mathematical model that accounts for the dynamic effect of coke deposition on the hydrodynamics of the FCCU riser. The spatial derivatives are discretized using finite difference to obtain the dependency of the state variables on time.
