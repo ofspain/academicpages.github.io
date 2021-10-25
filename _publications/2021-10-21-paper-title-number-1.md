@@ -8,4 +8,4 @@ venue: 'OAU ILE-IFE'
 citation: Osunleke, A., Ayeni, O., Bamimore, A., & Alli, K. (2019). &quot;Dynamic Modeling and Simulation of Fluid Catalytic Cracking Unit Riser.&quot; <i>Ife Journal of Technology</i>. vol(26)1,23-28. http://ijt.oauife.edu.ng/index.php/ijt/article/view/143
 ---
 
-{% 6c0d2bdb85938de6c3b9463e9cf223a9 %}
+{% gist 6c0d2bdb85938de6c3b9463e9cf223a9 %}
