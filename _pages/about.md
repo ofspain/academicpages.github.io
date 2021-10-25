@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ======
-An innovative postgraduate of Chemical Engineering with a wide range of excellent technical and research skills gained through practice and theory. Currently aspiring to pursue a Ph.D degree in Chemical Engineering using Machine Learning and data analysis 
+An innovative postgraduate of Chemical Engineering with a wide range of excellent technical and research skills gained through practice and theory. Currently aspiring to pursue a Ph.D degree in Chemical Engineering using Machine Learning and data science analysis
 
 Publications
 ======
